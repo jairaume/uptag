@@ -1,4 +1,4 @@
-# uptag
+# ↟ uptag
 
 Interactive git tag version bumper for zsh.
 
